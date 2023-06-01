@@ -1,0 +1,3 @@
+/Users/michaelcollins/Downloads/GitHub Projects/wordCounter/cmake-build-debug/CMakeFiles/wordCounter.dir
+/Users/michaelcollins/Downloads/GitHub Projects/wordCounter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michaelcollins/Downloads/GitHub Projects/wordCounter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
