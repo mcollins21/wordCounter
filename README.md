@@ -17,3 +17,4 @@ The program is designed to count the number of words in a given body of text. It
 - The iteration continues until the end of the string, considering each character along the way. Once the end of the string is reached, the final word count is obtained.
 
 - The program then displays the word count to the user, providing them with an accurate measurement of the number of words in the entered text.
+
